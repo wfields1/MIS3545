@@ -4,3 +4,7 @@ if age > 21:
     print('Yes, you can.')
 else:
     print('No, you are not allowed.')
+
+import math
+
+print(math.pi)
